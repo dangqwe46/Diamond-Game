@@ -1,0 +1,12 @@
+{
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=lxml" ,
+        "--unsafe-load-any-extension=y",
+        "--load-plugins=pylint_django",
+        "--errors-only"
+       
+    ],
+    "python.pythonPath": "C:\\Users\\dangq\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+
+    
+}
